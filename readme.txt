@@ -17,7 +17,7 @@ Output:
       •	442  :-  prime numbers found so far
       •	446  :-  prime numbers found so far
 
-
+--------------------------------------------------------------------
 
 Assignment 2:
 With a given integer number n, enter input as numbers  to get list of all prime numbers from 2 to n.
